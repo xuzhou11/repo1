@@ -4,5 +4,6 @@ public class Gitaa {
         System.out.println("bbb");
         System.out.println("cccc");
         System.out.println("dddd");
+        System.out.println("解决冲突");
     }
 }
